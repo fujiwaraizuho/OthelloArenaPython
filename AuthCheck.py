@@ -1,5 +1,4 @@
 import requests
-import json
 import os
 
 def auth_check(base_url):
